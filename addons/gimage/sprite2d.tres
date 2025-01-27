@@ -1,0 +1,9 @@
+[gd_resource type="ShaderMaterial" load_steps=2 format=3 uid="uid://cpqynehosif4n"]
+
+[ext_resource type="Shader" uid="uid://t0m6n122bgfh" path="res://addons/gimage/sprite2d.gdshader" id="1_g5fq8"]
+
+[resource]
+shader = ExtResource("1_g5fq8")
+shader_parameter/from = Color(0.211765, 0.239216, 0.317647, 1)
+shader_parameter/to = Color(0.55, 0.319, 0.3806, 1)
+shader_parameter/tolerance = 0.725
